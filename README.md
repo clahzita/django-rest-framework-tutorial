@@ -1,2 +1,2 @@
 # django-rest-framework-tutorial
-Resultado de aplicação seguindo tutorial do Django REST Framework
+Código fonte do tutorial do [Django REST framework](http://www.django-rest-framework.org/tutorial/1-serialization).
